@@ -1,8 +1,8 @@
 from pyrogram import Client, filters
 
-BOT_TOKEN = # your bot token from telegram.me/BotFather. Sample :- "12345:abcdefghijklmnop"
-API_ID = # your api id from my.telegram.org. Sample :- int("123456")
-API_HASH = # your api hash from my.telegram.org Sample :- "fayasnoushad123"
+BOT_TOKEN = "1611223476:AAHWYCIRN0S568PmwST740YcQ06m4118SZc" # your bot token from telegram.me/BotFather. Sample :- "12345:abcdefghijklmnop"
+API_ID = "1064529" # your api id from my.telegram.org. Sample :- int("123456")
+API_HASH = "7ce9113e5ac18ab3cf866c0cfdf34fcc" # your api hash from my.telegram.org Sample :- "fayasnoushad123"
 
 Bot = Client(
     "Simple-Pyrogram-Bot",
